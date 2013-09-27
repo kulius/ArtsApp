@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>文化部網路劇院APP</name>
+
+<description>
+文化部網路劇院APP
+</description>
+
+<author href="https://example.com" email="kulius@msn.com">
+文化部網路劇院APP
+</author>
+
+<icon src="icon.png" />
+
+</widget>

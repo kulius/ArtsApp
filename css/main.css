@@ -1,0 +1,30 @@
+/* Page-Intro */
+html, body{
+ margin: 0;
+ padding: 0;
+ border: 0;
+}
+
+body {
+	font-size:20px;
+	-webkit-user-select:none;
+    -webkit-text-size-adjust:none;
+	width:480px; height:800px;
+}
+.intomain{
+	width:480px; height:800px;
+	background:url(../images/intro.jpg) no-repeat;
+	position:absolute; z-index:1; 
+}
+
+#mainpage{
+	width:480px; height:800px;
+	background:url(../images/main.jpg) no-repeat;
+	position:absolute; z-index:1; 
+}
+
+.content{
+	margin-top: 200px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
